@@ -1,0 +1,6 @@
+[submodule "src/qinfo"]
+	path = src/qinfo
+	url = git@github.com:El-Wumbus/qinfo.git
+[submodule "src/I-Hate-Linux-Shells"]
+	path = src/I-Hate-Linux-Shells
+	url = git@github.com:El-Wumbus/I-Hate-Linux-Shells.git
