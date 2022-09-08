@@ -4,3 +4,6 @@
 [submodule "I-Hate-Linux-Shells"]
 	path = I-Hate-Linux-Shells
 	url = git@github.com:El-Wumbus/I-Hate-Linux-Shells.git
+[submodule "udl"]
+	path = udl
+	url = git@github.com:El-Wumbus/udl.git

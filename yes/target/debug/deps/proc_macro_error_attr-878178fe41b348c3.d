@@ -1,0 +1,7 @@
+/mnt/starship-vault/documents/Git/myutils/yes/target/debug/deps/libproc_macro_error_attr-878178fe41b348c3.so: /home/decator/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-attr-1.0.4/src/lib.rs /home/decator/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-attr-1.0.4/src/parse.rs /home/decator/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-attr-1.0.4/src/settings.rs
+
+/mnt/starship-vault/documents/Git/myutils/yes/target/debug/deps/proc_macro_error_attr-878178fe41b348c3.d: /home/decator/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-attr-1.0.4/src/lib.rs /home/decator/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-attr-1.0.4/src/parse.rs /home/decator/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-attr-1.0.4/src/settings.rs
+
+/home/decator/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-attr-1.0.4/src/lib.rs:
+/home/decator/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-attr-1.0.4/src/parse.rs:
+/home/decator/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-attr-1.0.4/src/settings.rs:

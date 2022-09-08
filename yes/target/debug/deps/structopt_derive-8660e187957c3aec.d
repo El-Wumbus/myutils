@@ -1,0 +1,10 @@
+/mnt/starship-vault/documents/Git/myutils/yes/target/debug/deps/libstructopt_derive-8660e187957c3aec.so: /home/decator/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.18/src/lib.rs /home/decator/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.18/src/attrs.rs /home/decator/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.18/src/doc_comments.rs /home/decator/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.18/src/parse.rs /home/decator/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.18/src/spanned.rs /home/decator/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.18/src/ty.rs
+
+/mnt/starship-vault/documents/Git/myutils/yes/target/debug/deps/structopt_derive-8660e187957c3aec.d: /home/decator/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.18/src/lib.rs /home/decator/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.18/src/attrs.rs /home/decator/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.18/src/doc_comments.rs /home/decator/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.18/src/parse.rs /home/decator/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.18/src/spanned.rs /home/decator/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.18/src/ty.rs
+
+/home/decator/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.18/src/lib.rs:
+/home/decator/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.18/src/attrs.rs:
+/home/decator/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.18/src/doc_comments.rs:
+/home/decator/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.18/src/parse.rs:
+/home/decator/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.18/src/spanned.rs:
+/home/decator/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.18/src/ty.rs:
